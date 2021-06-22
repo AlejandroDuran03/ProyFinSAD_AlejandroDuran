@@ -1,0 +1,2 @@
+C:\Users\HP\ProyFinSAD_AlejandroDuran\FinalProject-AlejandroDuran\Libraries\Settings\DBFunctions\TestSecuence.vi (Acquisition.lvlib:TestSecuence.vi)
+    - The control expected to be at "C:\Users\HP\Downloads\ProyFinSAD_PabloCesarRamosE\EnumTypeDef.ctl" was loaded from "C:\Users\HP\ProyFinSAD_AlejandroDuran\FinalProject-AlejandroDuran\Libraries\Settings\AcqType--enum.ctl".
