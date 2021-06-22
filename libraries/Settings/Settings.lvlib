@@ -30,6 +30,7 @@
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
 				<Item Name="NameTest Argument--cluster.ctl" Type="VI" URL="../NameTest Argument--cluster.ctl"/>
 				<Item Name="SecuenceHasBeenSent Argument--cluster.ctl" Type="VI" URL="../SecuenceHasBeenSent Argument--cluster.ctl"/>
+				<Item Name="TypeSignal Argument--cluster.ctl" Type="VI" URL="../TypeSignal Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -61,6 +62,7 @@
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
 		<Item Name="NameTest.vi" Type="VI" URL="../NameTest.vi"/>
 		<Item Name="SecuenceHasBeenSent.vi" Type="VI" URL="../SecuenceHasBeenSent.vi"/>
+		<Item Name="TypeSignal.vi" Type="VI" URL="../TypeSignal.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -102,7 +104,6 @@
 		<Item Name="DeleteONE.vi" Type="VI" URL="../DBFunctions/DeleteONE.vi"/>
 		<Item Name="DeleteALL.vi" Type="VI" URL="../DBFunctions/DeleteALL.vi"/>
 		<Item Name="ReadConfig.vi" Type="VI" URL="../DBFunctions/ReadConfig.vi"/>
-		<Item Name="TestSecuence.vi" Type="VI" URL="../DBFunctions/TestSecuence.vi"/>
 		<Item Name="ReadSecuence.vi" Type="VI" URL="../DBFunctions/ReadSecuence.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
