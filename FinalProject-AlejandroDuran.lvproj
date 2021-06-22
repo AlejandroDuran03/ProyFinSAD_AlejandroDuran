@@ -12,11 +12,13 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="modules" Type="Folder">
 			<Item Name="Acquisition.lvlib" Type="Library" URL="../libraries/Acquisition/Acquisition.lvlib"/>
+			<Item Name="Logging.lvlib" Type="Library" URL="../libraries/Logging/Logging.lvlib"/>
 			<Item Name="Settings.lvlib" Type="Library" URL="../libraries/Settings/Settings.lvlib"/>
 			<Item Name="User Interfase.lvlib" Type="Library" URL="../libraries/User Interfase/User Interfase.lvlib"/>
 		</Item>
 		<Item Name="testers" Type="Folder">
 			<Item Name="Test Acquisition API.vi" Type="VI" URL="../libraries/Acquisition/Test Acquisition API.vi"/>
+			<Item Name="Test Logging API.vi" Type="VI" URL="../libraries/Logging/Test Logging API.vi"/>
 			<Item Name="Test Settings API.vi" Type="VI" URL="../libraries/Settings/Test Settings API.vi"/>
 			<Item Name="Test User Interfase API.vi" Type="VI" URL="../libraries/User Interfase/Test User Interfase API.vi"/>
 		</Item>
@@ -248,7 +250,6 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="PruebaTypeDef.ctl" Type="VI" URL="../../../Downloads/ProyFinSAD_PabloCesarRamosE/PruebaTypeDef.ctl"/>
 			<Item Name="TestName--control.ctl" Type="VI" URL="../libraries/Settings/TestName--control.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
